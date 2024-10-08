@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project_coffee_shop/view/home_screen.dart';
+import 'package:flutter_project_coffee_shop/view/home/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
